@@ -2,9 +2,13 @@
 # Intellij
 .idea/
 .gradle/
+.vscode/
 *.iml
+bin/
 *.iws
 *.editorconfig
+.vscode/
+bin/
 
 # Gradle
 log/
